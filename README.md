@@ -7,5 +7,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;DSA+and+Development+Enthusiast;Always+Learning+Something+New&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;DSA+and+Development+Enthusiast;Always+Learning+Something+New&center=true&width=500&height=45">
 </p>
