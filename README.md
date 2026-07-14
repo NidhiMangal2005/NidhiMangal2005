@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  B.Tech Computer Science Student | Aspiring Software Engineer
+  B.Tech Software Engineering Student | Aspiring Software Engineer
 </h3>
 
 <p align="center">
